@@ -84,6 +84,6 @@ To analyze global happiness data, we began by sourcing information from the Worl
 
 ## Acknowledgement
 
-This project was developed in collaboration with [Ali Parsaee](https://github.com/yoguy12345) under the guidance of Prof. Joerg Sander at the University of Alberta. For a detailed overview, refer to the [Project Report](https://drive.google.com/file/d/1vok2c326OzMwTz9LuCAkXDwTuIQBzyL1/view?usp=sharing).
+This project was developed in collaboration with [Ali Parsaee](https://github.com/yoguy12345) under the guidance of Prof. Joerg Sander at the University of Alberta. For a detailed overview, refer to this [Presentation](https://docs.google.com/presentation/d/1o2_qAkIjgx057J1t0ejzthgzcvYj0KWEM566GyeV184/edit?usp=sharing) or the [Project Report](https://drive.google.com/file/d/1vok2c326OzMwTz9LuCAkXDwTuIQBzyL1/view?usp=sharing).
 
 ---
